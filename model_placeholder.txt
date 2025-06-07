@@ -1,2 +1,0 @@
-This file is too large to upload to GitHub.  
-Contact the developer for model.pkl or run train_model.py to generate it again.
